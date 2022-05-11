@@ -435,8 +435,10 @@ MigrationBackup/
 
 # End of https://www.gitignore.io/api/c,windows,visualstudio
 
-# 수동 추가
+# 오후 1:25 2022-05-11 수동 추가
 
 .vs/
-.sln
-x64/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
