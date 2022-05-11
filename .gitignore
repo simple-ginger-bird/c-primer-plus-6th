@@ -1,13 +1,6 @@
-# 오후 2:26 2022-05-11 수동 추가
 
-.vs/
-.sln
-.vcxproj
-.vcxproj.filters
-.vcxproj.user
-
-# Created by https://www.gitignore.io/api/c,windows,visualstudio
-# Edit at https://www.gitignore.io/?templates=c,windows,visualstudio
+# Created by https://www.gitignore.io/api/c,c++,windows,visualstudio
+# Edit at https://www.gitignore.io/?templates=c,c++,windows,visualstudio
 
 ### C ###
 # Prerequisites
@@ -62,6 +55,31 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+### 2022.05.29 수동 추가 ###
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+### C++ ###
+# Prerequisites
+
+# Compiled Object files
+*.slo
+
+# Precompiled Headers
+
+# Compiled Dynamic libraries
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+
+# Executables
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -440,4 +458,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-# End of https://www.gitignore.io/api/c,windows,visualstudio
+# End of https://www.gitignore.io/api/c,c++,windows,visualstudio
