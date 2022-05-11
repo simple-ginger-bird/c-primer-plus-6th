@@ -434,3 +434,9 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.gitignore.io/api/c,windows,visualstudio
+
+# 수동 추가
+
+.vs/
+.sln
+x64/
