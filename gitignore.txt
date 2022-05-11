@@ -1,3 +1,10 @@
+# 오후 2:26 2022-05-11 수동 추가
+
+.vs/
+.sln
+.vcxproj
+.vcxproj.filters
+.vcxproj.user
 
 # Created by https://www.gitignore.io/api/c,windows,visualstudio
 # Edit at https://www.gitignore.io/?templates=c,windows,visualstudio
@@ -434,11 +441,3 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.gitignore.io/api/c,windows,visualstudio
-
-# 오후 1:25 2022-05-11 수동 추가
-
-.vs/
-*.sln
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
